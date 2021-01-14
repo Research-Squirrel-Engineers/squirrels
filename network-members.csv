@@ -1,5 +1,5 @@
-name,given_name,Interests,role
-Thiery,Florian,"LOD, Wikidata, CIDOC-CRM, geospatial data, archaeology","initiator squirrel"
-Schmidt,Sophie Charlotte,"LOD, Wikidata, CIDOC-CRM, archaeology","co-initiator squirrel"
-Homburg,Timo,"LOD, Wikidata, geospatial data","co-initiator squirrel"
-Trognitz,Martina,"LOD, Wikidata, Digital Archiving","member squirrel"
+name,given_name,Interests,role,WG Ogham, WG SPARQL Unicorn
+Thiery,Florian,"LOD, Wikidata, CIDOC-CRM, geospatial data, archaeology","initiator squirrel",X,X
+Schmidt,Sophie Charlotte,"LOD, Wikidata, CIDOC-CRM, archaeology","co-initiator squirrel",X,
+Homburg,Timo,"LOD, Wikidata, geospatial data","co-initiator squirrel",,X
+Trognitz,Martina,"LOD, Wikidata, Digital Archiving","member squirrel",,
